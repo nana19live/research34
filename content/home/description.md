@@ -4,7 +4,7 @@ widget_id: Description
 headless: true
 weight: 20
 title: Project Description
-active: true
+active: false
 design:
   columns: "2"
   background:
