@@ -4,11 +4,11 @@ widget_id: Description
 headless: true
 weight: 20
 title: Project Description
-active: false
+active: true
 design:
   columns: "2"
   background:
     text_color_light: false
     image_darken: 0
 ---
-Bla bla bla
+Bla bla bla.
