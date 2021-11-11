@@ -2,7 +2,7 @@
 widget: hero
 widget_id: header
 headless: true
-weight: 0
+weight: 10
 title: |
   Wowchemy  
   Research Group
