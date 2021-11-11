@@ -2,7 +2,7 @@
 widget: blank
 widget_id: Description
 headless: true
-weight: 10
+weight: 20
 title: Project Description
 active: true
 design:
